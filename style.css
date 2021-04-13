@@ -1,0 +1,17 @@
+.origami{
+    border-radius: 20px;
+    background-color: aqua;
+    width: 310px;
+    font-family: fantasy;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+    
+}
